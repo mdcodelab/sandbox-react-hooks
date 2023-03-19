@@ -1,11 +1,11 @@
 import React from 'react';
-import UseCallbackExample from './components/UseCallbackExample';
+import CustomHookExample1 from './components/CustomHookExample1';
 
 
 function App() {
   return (
     <div>
-      <UseCallbackExample />
+      <CustomHookExample1></CustomHookExample1>
     </div>
   );
 }
