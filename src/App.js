@@ -1,10 +1,11 @@
 import React from 'react';
-import UseMemoExample from './components/UseMemoExample';
+import UseCallbackExample from './components/UseCallbackExample';
+
 
 function App() {
   return (
     <div>
-    <UseMemoExample></UseMemoExample>
+      <UseCallbackExample />
     </div>
   );
 }
